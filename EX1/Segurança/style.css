@@ -1,0 +1,54 @@
+/* Resetando margens e preenchimentos padrão */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Estilo do corpo da página */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+/* Estilo do título principal */
+h1 {
+  color: #2c3e50;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Estilo dos subtítulos */
+h2 {
+  color: #34495e;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/* Estilo dos parágrafos */
+p {
+  margin-bottom: 10px;
+}
+
+/* Estilo das listas */
+ul {
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+/* Estilo dos itens da lista */
+li {
+  margin-bottom: 5px;
+}
+
+/* Estilo do rodapé */
+footer {
+  margin-top: 30px;
+  padding-top: 10px;
+  border-top: 1px solid #ccc;
+  text-align: center;
+  font-style: italic;
+}
